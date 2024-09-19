@@ -7,5 +7,8 @@ public class Runner {
         System.out.println("version 4");
         System.out.println("repo güncellemesi");
 
+
+        //B kişisi değişiklik yaptı
+
     }
 }
